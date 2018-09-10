@@ -1,4 +1,4 @@
-# H1 SampleApp
+# SampleApp
 
 ## Important
 
